@@ -9,3 +9,25 @@ El set de datos esta disponble en hoja de calculo (xlxs y odt), JSON y XML.
 
 It contains the names of 724 species with their corresponding vernacular names and botanical families. It includes 108 families.
 The dataset is available in spreadsheet format (xlxs and odt), JSON, and XML.
+## Conjunto de Datos de Especies Botánicas de Costa Rica / Costa Rica Botanical Species Dataset
+Esta colección contiene un conjunto de datos completo con 107 especies de plantas que se encuentran en Costa Rica, junto con sus nombres científicos correspondientes, nombres vernáculos, familias botánicas, distribución geográfica, descripciones de las plantas, fenología y usos comunes. Las especies incluidas en este conjunto de datos abarcan desde aquellas que se encuentran en Estados Unidos hasta Argentina, lo que muestra la diversidad de flora en esta región.
+
+This collection contains a comprehensive dataset of 107 plant species found in Costa Rica, with their corresponding scientific names, vernacular names, botanical families, geographical distribution, plant descriptions, phenology, and common uses. The species included in this dataset range from those found in the United States to Argentina, showcasing the diverse range of flora across this region.
+
+### Contenido / Contents
+
+- **Archivos:** El conjunto de datos está disponible en varios formatos para tu conveniencia: hojas de cálculo (xlxs y odt), JSON y XML.
+- **Datos:** Explora la riqueza de la vida vegetal de Costa Rica, incluyendo conocimientos científicos y prácticos sobre estas especies.
+
+- **Files:** The dataset is available in multiple formats for your convenience: spreadsheet (xlxs and odt), JSON, and XML.
+- **Data:** Explore the richness of Costa Rica's plant life, encompassing both scientific and practical insights into these species.
+
+### Acerca del Conjunto de Datos / About the Dataset
+
+Este conjunto de datos proporciona información valiosa para investigadores, botánicos, educadores y entusiastas de la naturaleza interesados en comprender y estudiar las especies vegetales de Costa Rica y su contexto geográfico más amplio. Ya sea que estés realizando investigaciones, proyectos educativos o simplemente sientas curiosidad por el mundo de las plantas, este repositorio es una fuente confiable.
+
+Siéntete libre de explorar los datos y utilizarlos para diversos propósitos, desde investigaciones científicas hasta materiales educativos. Esperamos que este conjunto de datos contribuya a una apreciación más profunda y al conocimiento de la diversidad botánica que se encuentra en Costa Rica y más allá.
+
+This dataset provides valuable information for researchers, botanists, educators, and nature enthusiasts interested in understanding and studying the plant species of Costa Rica and its broader geographical context. Whether you're conducting research, educational projects, or simply curious about the plant world, this repository serves as a reliable resource.
+
+Feel free to explore the data and utilize it for various purposes, from scientific research to educational materials. We hope this dataset contributes to a deeper appreciation and knowledge of the botanical diversity found in Costa Rica and beyond.
